@@ -28,7 +28,5 @@ Un shell minimaliste en C, démontrant ma maîtrise des concepts bas-niveau, des
 
 ## 📫 **Me Contacter**
 - ✉️ Email :  [brendapollagba@gmail.com](mailto:brendapollagba@gmail.com)  
-- 🔗 LinkedIn : [linkedin.com/in/tonprofil](www.linkedin.com/in/brenda-pollagba)
-
-![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=Bree-Codingl&theme=react-dark)
+- 🔗 LinkedIn : [linkedin.com/in/Brenda POLLAGBA](www.linkedin.com/in/brenda-pollagba)
 
