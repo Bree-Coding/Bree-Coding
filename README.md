@@ -1,11 +1,12 @@
 
-# 👋 Bienvenue 😊 !
+# 👋 Bienvenue !
 
 Je suis **Brenda**, étudiante en développement web et mobile à la [Holberton School](https://www.holbertonschool.com/). Curieuse de nature, j'ai découver le monde du développement, cette expérience a été très enthousiasmante et m'a menée jusqu'ici. 😊  
 
 ## 💻 **À propos de moi**
 - 🎓 Étudiante en 1ère année, explorant les bases de la programmation bas-niveau avec **C** et les projets pratiques avec **Python**.  
-- 🔎 Actuellement à la recherche d’une **alternance ou d'un stage pour 2025**. Je souhaite mettre en pratique mes compétences en développement et continuer à apprendre dans un environnement professionnel.
+- 🔎 Actuellement à la recherche d’une **alternance ou d'un stage pour 2025**.
+  Je souhaite mettre en pratique mes compétences en développement et continuer à apprendre dans un environnement professionnel.
 - 💡 Curieuse, rigoureuse et motivée.  
 
 ## 🛠️ **Compétences Techniques**
