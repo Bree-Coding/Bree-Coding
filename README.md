@@ -26,9 +26,6 @@ Un shell minimaliste en C, démontrant ma maîtrise des concepts bas-niveau, des
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Bree-Coding&show_icons=true&theme=radical)  
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bree-Coding&layout=compact&theme=radical)
 
-## 🐍 **Mes Contributions**
-![Snake animation](https://github.com/Bree-coding/Bree-Coding/blob/output/github-contribution-grid-snake.svg)
-
 ## 📫 **Me Contacter**
 - ✉️ Email :  [brendapollagba@gmail.com](mailto:brendapollagba@gmail.com)  
 - 🔗 LinkedIn : [linkedin.com/in/tonprofil](www.linkedin.com/in/brenda-pollagba)
